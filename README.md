@@ -8,3 +8,5 @@ Jeśli podoba Ci się mój słownik, zatrzymaj się na chwilkę i zastanów czy 
 Dla Ciebie jest to tylko złotówka albo dwie (-80 gr dla PayPal), a dla mnie znak, że warto poświęcać temu czas.<br/>
 <br/>
 paypal.me/sanzamoyski<br/>
+<br/>
+Najnowsze pliki są na stronie cc-sjp.zabałaganionemiejsce.pl, kopie na stronie https://github.com/PMKrol/CC-SJP/releases.<br/>
